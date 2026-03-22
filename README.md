@@ -59,13 +59,12 @@
 
 ---
 
-## 📊 LeetCode Stats  
-
+## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Dwarkesh78&theme=dark" />
+  <a href="https://leetcode.com/u/Dwarkesh78/">
+    <img src="https://leetcard.jacoblin.cool/Dwarkesh78?theme=dark&font=Baloo_2&ext=heatmap" />
+  </a>
 </p>
-
-🔗 Profile: https://leetcode.com/u/Dwarkesh78/
 
 ---
 
